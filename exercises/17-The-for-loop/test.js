@@ -26,5 +26,6 @@ it('The output in the console should match the one in the instructions!', functi
       _avg += _myArray[index]
 	  }
     let _avgTest = _avg / _myArray.length
+    
     expect(_avgTest).toEqual(parseFloat(_buffer));
   });
