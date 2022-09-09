@@ -1,28 +1,18 @@
-# Looping in Javascript Tutorial & Exercises
+# Javascript Functions :sparkles:
 
-<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/blob/master/badge-loop.png"></a>
+This is part of a series of auto-graded exercises to practice Javascript. Credit goes to <a href="https://github.com/4GeeksAcademy">4Geeks Academy</a>. I will link the original repos in the correct order below. The difficulty of the exercises increases progressively, so it is recommended that they're solved in this order.
 
-> By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+<ol>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial">Beginner</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial">Functions</a> ← You are here</li>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial">Loops</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/master-javascript-programming-exercises">Master</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-dom-tutorial-exercises">The Dom</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/javascript-events-tutorial-exercises">Events</a></li>
+  <li><a href="https://github.com/4GeeksAcademy/react-tutorial-exercises">React</a></li>
+</ol>
 
-![last commit](https://img.shields.io/github/last-commit/4geeksacademy/javascript-arrays-exercises-tutorial)
-[![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
-[![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
-
-
-Dozens of looping exercises to sharpen your looping skills with for, forEach, map, filter, looping a dictionary, looping bidimentional arrays, adding conditions to loops, finding an element, and more!
-
-1. [Javascript for Beginners](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial)
-2. [Looping with Javascript](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial) ← your are here now 🔥
-3. [Javascript Functions](https://github.com/4GeeksAcademy/javascript-functions-exercises-tutorial)
-
-We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
-</p>
-
-<h2>One click installation:</h2>
-
+## One click installation
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial.git)
 
 
@@ -60,14 +50,3 @@ Each exercise is a small react application containing the following files:
 1. **app.js:** represents the entry Javascript file that will be executed by the computer.
 2. **README.md:** contains exercise instructions.
 3. **test.js:** you don't have to open this file, it contains the testing script for the exercise.
-
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
-
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) :computer: (idea) 🤔, (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentation) :book:
-2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) :bug:, contribution: (coder), (translation) :earth_americas:
-
-This project follows the
-[all-contributors](https://github.com/kentcdodds/all-contributors)
-specification. Contributions of any kind are welcome!
